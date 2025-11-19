@@ -15,7 +15,7 @@
 - Writing modular, reusable problem-solving functions  
 
 ## 💭 Reflection
-Today’s lesson made functions feel powerful — not just blocks of code, but tools I can reuse everywhere.  
+Today’s lesson made functions feel powerful not just blocks of code, but tools I can reuse everywhere.  
 This is the beginning of writing cleaner, professional-level Python.
 
 ## ✏ Formula
