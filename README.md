@@ -33,7 +33,7 @@ Learning archive. Kept public as part of my growth story, but no longer treated 
 
 This foundation helped me move from tutorial exercises into original software work, including:
 
-- [Hero Academy](https://github.com/Sommer-T/hero-academy), a Flask-based educational platform
+- Hero Academy, a private Flask-based educational platform with progression, achievements, SQLite persistence, and AI-assisted coaching foundations
 - Backend development practice through Boot.dev
 - Python automation and workflow systems
 
